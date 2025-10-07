@@ -1,0 +1,76 @@
+// Importa o arquivo base do Quartz
+@use "base";
+
+// ------------------------------------
+// D&D Player's Handbook Style
+// ------------------------------------
+
+// 1. Layout de Duas Colunas para a Página Principal
+.popover-hint,
+.popover-hint > *,
+.page-body {
+    // Aplica o layout de múltiplas colunas ao corpo do artigo
+    .content {
+        // As colunas só devem aparecer em telas grandes para manter a legibilidade no mobile
+        @media (min-width: 1024px) {
+            column-count: 2;
+            column-gap: 2rem; // Espaço entre as colunas
+            // column-rule: 1px solid #d0c090; // Linha divisória (opcional)
+            padding: 0 1rem; // Adiciona um pequeno padding nas laterais
+
+            // Garante que o H1 (título da página) ocupe toda a largura
+            h1 {
+                column-span: all;
+                text-align: center; // Centraliza o título da página
+                margin-bottom: 1.5rem;
+                border-bottom: 2px solid base.$lightgray; // Linha decorativa
+            }
+        }
+    }
+}
+
+// 2. Estilo dos Callouts (Caixas de Regras/Lore)
+// Imitando as caixas de informação com bordas sólidas e fundo distinto.
+
+// Fundo de pergaminho mais escuro ou cor específica para callouts
+$callout-bg: #f5f0e3; 
+$callout-border: #997e55; 
+
+.callout {
+    column-span: all; // Força a caixa a ocupar toda a largura (importante!)
+    background-color: $callout-bg;
+    border: 1px solid $callout-border;
+    border-left: 5px solid $callout-border; // Uma barra lateral mais grossa
+    border-radius: 4px;
+    padding: 1rem;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); // Leve sombra
+    margin-bottom: 1.5rem;
+
+    // Garante que o conteúdo dentro do callout não se divida em colunas
+    .callout-content {
+        column-count: 1;
+    }
+}
+
+// 3. Tipografia e Detalhes
+// Ajusta o estilo dos títulos para o visual do PHB
+h2, h3, h4 {
+    color: base.$dark; // Usando a cor Borgonha/Vermelho Escuro definida no config.ts
+    // Você pode adicionar um pequeno `text-shadow` aqui para dar profundidade
+}
+
+// Adiciona margem vertical nas imagens para melhor separação
+.page-body img {
+    margin: 1.5rem auto;
+    display: block; // Centraliza a imagem
+    max-width: 100%;
+    height: auto;
+}
+
+// Estilo para a linha divisória do Markdown
+hr {
+    border: none;
+    border-top: 3px double #7a0000; // Linha dupla Borgonha
+    width: 50%;
+    margin: 3rem auto;
+}

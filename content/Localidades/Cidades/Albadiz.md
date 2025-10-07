@@ -1,0 +1,1 @@
+Albadiz é uma cidade média.
