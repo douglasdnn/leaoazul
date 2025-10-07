@@ -1,7 +1,7 @@
-### **Mestre Calebe, O Taverneiro-Estoquista (O Cozinheiro Louco)**
-
 ---
-
+title: Calebe, o Taverneiro
+publish: "true"
+---
 ### **O Almoço da Loucura**
 
 **Mestre Calebe** é o toque de conforto e o sopro da insanidade no Bando do Leão Azul.
@@ -14,6 +14,4 @@ No entanto, Calebe está **insano**. Ele fala constantemente com a sua falecida 
 
 ### **A Ameaça ao Estoque**
 
-O dilema de Calebe é físico e psicológico. Ele insiste em manter o **Estoque Principal** (barris, sal e provisões vitais) no **subsolo**, diretamente adjacente à porta trancada das **Catacumbas**. Os ruídos e tremores não são apenas um perigo para o Bando, mas uma ameaça direta à sua cozinha e ao **moral** do grupo.
-
-Para os PJs, Calebe é uma fonte de **informação inestimável**, embora codificada pela sua loucura. Ele lhes dará **dicas crípticas** (da esposa) sobre os perigos da masmorra, a traição de certos PNJs ou a natureza da ameaça—cabe aos jogadores discernir o que é profecia e o que é demência.
+O dilema de Calebe é físico e psicológico. Ele insiste em manter o **Estoque Principal** (barris, sal e provisões vitais) no **subsolo**, diretamente adjacente à porta trancada das **Catacumbas**. 

@@ -1,14 +1,15 @@
-### **Valerius "O Corretor", O Negociador de Contratos (A Âncora da Reputação)**
-
+---
+title: Valerius, o Corretor
+publish: "true"
 ---
 
-### **O Preço da Confiança**
+### **O Negociador de Contratos**
 
-**Valerius "O Corretor"** é uma anomalia nos reinos corruptos de Maguna: ele é **confiável**.
+**Valerius "O Corretor"** é uma anomalia em [[Maguna]]: ele é possui a reputação de ser **confiável**.
 
 Em um mundo onde a informação é mais traiçoeira do que o ouro de tolo, Valerius é o **único PNJ** do Bando cuja palavra não se torce. Ele viaja para reinos vizinhos, veste-se com trajes de viagem bem cuidados (mas não vistosos) e mantém uma postura séria e discreta. O seu papel é vital: ele filtra os rumores e as mentiras para trazer de volta apenas **Contratos Fabulosos** e **viáveis**, garantindo que o **Bando do Leão Azul** não aceite missões suicidas ou fraudes.
 
-A sua chegada à igreja é sempre um **evento** (uma "comoção"), pois ele traz o único fluxo de **ouro honesto** e trabalho real. Ele é o baluarte da reputação do Bando e despreza a desonestidade, a ganância de **Silas "O Dourado"**, e a má gestão de **Borin "Ferro-Curto"**.
+A sua chegada à igreja é sempre um **evento** (uma "comoção"), pois ele traz o único fluxo de **ouro honesto** e trabalho real. Ele é o baluarte da reputação do Bando e despreza a desonestidade, a ganância de **[[Silas]] "O Dourado"**, e a má gestão de **[[Borin]] "Ferro-Curto"**.
 
 > **O Desafio:** A desonestidade mata mais rápido que a lâmina.
 

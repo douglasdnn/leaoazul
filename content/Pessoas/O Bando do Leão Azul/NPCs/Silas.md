@@ -1,7 +1,7 @@
-### **Silas "O Dourado", O Negociador de Itens (A Tentação Mística)**
-
 ---
-
+title: Silas, o Antiquário
+publish: "true"
+---
 ### **O Valor do Risco**
 
 **Silas "O Dourado"** é o lado mais perigoso da ganância. Este humano, com a sua aura cigana e vestes coloridas mas discretas, opera à margem, num beco seguro, fora das paredes da igreja. Ele não tem o medo de **[[Borin]] "Ferro-Curto"** ou a disciplina de **[[Hilda]] "Martelo-Fiel"**; o seu mundo é a magia e o valor intrínseco dos objetos.
